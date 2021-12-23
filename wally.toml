@@ -2,7 +2,7 @@
 name = "astrealrblx/roactive"
 description = "Lightweight and fast reactive state library"
 license = "MIT"
-version = "0.1.0"
+version = "0.2.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 exclude = ["examples"]
