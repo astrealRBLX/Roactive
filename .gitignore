@@ -1,0 +1,12 @@
+# Project place file
+/reactive-luau.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Wally dependencies
+Packages
+
+# Rojo Project
+default.project.json
