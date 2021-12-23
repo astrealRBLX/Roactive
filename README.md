@@ -4,6 +4,10 @@ Welcome to Roactive, a lightweight and fast reactive state library made specific
 
 Code snippets show casing various Roactive features can be found in the [examples](/examples) directory.
 
+## Installation
+
+You can install Roactive using [Wally](https://github.com/UpliftGames/wally) or by downloading the source and bringing it into your Rojo project.
+
 ## Understanding Reactivity
 
 Roactive state is *reactive*. What this means is it can have dependents that actively listen for state changes. When a state occurs all dependents will be signaled to update accordingly.
