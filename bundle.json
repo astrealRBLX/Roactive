@@ -1,0 +1,7 @@
+{
+  "name": "Roactive",
+  "id": "roactive",
+  "description": "A lightweight and fast reactive state library for use in Roblox",
+  "version": "1.0.0",
+  "src": "src"
+}
